@@ -3,7 +3,6 @@
 ## Devs JavaGirl
 #### sou dev, sou java
 
-Não se perca por aí. Aqui temos a lista de nossos repositórios e o que você pode encontrar neles
+Comece por aqui e não se perca por aí. Vamos manter nesse repositório uma lista com nossos conteúdos e dicas para ajudar na sua evolução. 
 
-
-[artigos-bacanas](https://github.com/devs-javagirl/artigos-bacanas) - Aqui você encontra os artigos que foram indicados no nosso Slack. 
+Se quiser adicionar algum conteúdo leia o [como-contribuir.md](./como-contribuir.md)
