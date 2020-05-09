@@ -1,5 +1,5 @@
 #### vagas
-Vagas que chegam até nós e que disponibilizaremos aqui.
+Vagas que chegam até nós e que disponibilizaremos aqui. Quer nos mandar vagas? Envie para devsjavagirl@gmail.com
 
 * Wirecard Brasil - https://apply.workable.com/wirecardbrasil/?lng=en
 * Concrete Solutions - https://jobs.kenoby.com/concrete
