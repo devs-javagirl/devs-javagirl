@@ -5,3 +5,4 @@ Vagas que chegam até nós e que disponibilizaremos aqui. Quer nos mandar vagas?
 * Concrete Solutions - https://jobs.kenoby.com/concrete
 * Pic Pay - https://picpay.gupy.io/
 * Ame - https://grnh.se/df473d5a2
+* Itau - https://trabalheconosco.vagas.com.br/itauunibanco
