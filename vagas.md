@@ -6,3 +6,4 @@ Vagas que chegam até nós e que disponibilizaremos aqui. Quer nos mandar vagas?
 * Pic Pay - https://picpay.gupy.io/
 * Ame - https://grnh.se/df473d5a2
 * Itau - https://trabalheconosco.vagas.com.br/itauunibanco
+* Invillia - https://jobs.kenoby.com/invillia
