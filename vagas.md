@@ -7,3 +7,4 @@ Vagas que chegam até nós e que disponibilizaremos aqui. Quer nos mandar vagas?
 * Ame - https://grnh.se/df473d5a2
 * Itau - https://trabalheconosco.vagas.com.br/itauunibanco
 * Invillia - https://jobs.kenoby.com/invillia
+* Santander - https://www.santander.com.br/institucional-santander/trabalhe-conosco
