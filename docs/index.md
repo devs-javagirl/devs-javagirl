@@ -7,4 +7,4 @@ Comece por aqui e não se perca por aí. Vamos manter nesse repositório uma lis
 
 ## Programa de mentoria
 
-(em construção...)
+(em construção ainda... mas dá uma espiada [aqui](mentoria.md)! )
