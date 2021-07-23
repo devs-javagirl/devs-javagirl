@@ -1,7 +1,5 @@
 
-![Devs JavaGirl](https://drive.google.com/file/d/1XmxGjWgp9tYyHS8YmSTvIadgT4bEaNYE/view?usp=sharing)
- 
-## Devs JavaGirl
+# Devs JavaGirl ![Devs JavaGirl](images/logo.png)
 
 #### sou dev, sou java
 
