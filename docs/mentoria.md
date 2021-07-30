@@ -12,13 +12,13 @@ Se você busca uma mentoria, você precisa ter acesso ao Slack da comunidade! Pa
 
 ### Preencha o formulário de interesse na mentoria
 
-Para demonstrar interesse em nosso programa de mentoria, basta preencher o nosso formulário de mentoria [aqui](https://bit.ly/devsjavagirl-mentoria) seja preenchido. Desta forma saberemos mais sobre você e conseguiremos te encontrar no Slack!
+Para demonstrar interesse em nosso programa de mentoria, basta preencher o nosso formulário de mentoria [aqui](https://bit.ly/devsjavagirl-mentoria). Desta forma saberemos mais sobre você e conseguiremos te encontrar no Slack!
 
 Link para o formulário de mentoria -> [https://bit.ly/devsjavagirl-mentoria](https://bit.ly/devsjavagirl-mentoria)
 
 ### Escolha sua mentora
 
-Assim que recebermos a sua resposta, você receberá uma mensagem por slack com detalhes sobre as mentoras da nossa comunidade! Escolha, dentre os seus interessas, aquela que conseguirá te apoiar! Entre em contato com a sua mentora e combine com ela o formato de mentoria que mais vai funcionar para você!
+Assim que recebermos a sua resposta, você receberá uma mensagem por slack com detalhes sobre as mentoras da nossa comunidade! Escolha, dentre os seus interesses, aquela que conseguirá te apoiar! Entre em contato com a sua mentora e combine com ela o formato de mentoria que mais vai funcionar para você!
 
 ****
 
