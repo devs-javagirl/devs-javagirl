@@ -11,4 +11,4 @@ Olá mulheres! A comunidade Devs JavaGirl está inaugurando o Programa de Mentor
 
 E para você que já tem alguma vivência no mercado e tem vontade de compartilhar o que sabe, venha fazer parte como uma mentora e ajude mais mulheres a serem uma JavaGirl.
 
-E aí, quer participar? Mais detalhes [aqui](mentoria.md)! <img src="images/icone_grlpwr.png" width="3%" height="3%"> 
+E aí, quer participar? Mais detalhes [aqui](mentoria.md)! <img src="images/icone_grlpwr.png" width="5%" height="5%"> 
